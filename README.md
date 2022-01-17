@@ -1,4 +1,4 @@
-# ML9-FORCES_CLASSROOM-X
+# CLASSROOM-X
 "Low-Bandwidth AI Teaching Platform for overcoming internet access inequity"
 
 ## Problem-Statement
